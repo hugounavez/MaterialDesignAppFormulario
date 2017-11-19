@@ -97,7 +97,11 @@ public class MainActivity extends AppCompatActivity {
         this.et_phone.setText(user.getPhone());
         this.et_contact.setText(user.getContactDescription());
 
-
+        String[] dateString = user.getBirthDate().split("/");
+        int day = Integer.valueOf(dateString[0]);
+        int month = Integer.valueOf(dateString[1]);
+        int year = Integer.valueOf(dateString[2]);
+        datePicker.updateDate(year, month, day);
 
     }
 
