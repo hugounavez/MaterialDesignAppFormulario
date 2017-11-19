@@ -1,9 +1,13 @@
+
+
 <resources>
     <string name="app_name">MaterialDesignAppFormulario</string>
-    <string name="form_username">MaterialDesignAppFormulario</string>
     <string name="hint_full_name">Full name</string>
     <string name="hint_phone_number">Phone number</string>
     <string name="hint_email">Email</string>
     <string name="label_description">Contact description</string>
     <string name="button_next">Next</string>
+    <string name="confirm_title">Confirm information</string>
+    <string name="label_NA">N/A</string>
+    <string name="edit_data">Edit information</string>
 </resources>

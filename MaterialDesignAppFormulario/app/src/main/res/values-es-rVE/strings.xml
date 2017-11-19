@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
     <string name="app_name">MaterialDesignAppFormulario</string>
-    <string name="hint_full_name">"    MaterialDesignAppFormulario"</string>
-    <string name="hint_phone_number">"    Full name"</string>
-    <string name="hint_email">"    MaterialDesignAppFormulario"</string>
-    <string name="label_description">"    Phone number"</string>
+    <string name="hint_full_name">Nombre completo</string>
+    <string name="hint_phone_number">Teléfono</string>
+    <string name="hint_email">MaterialDesignAppFormulario</string>
+    <string name="label_description">Descripción Contacto</string>
     <string name="button_next">Siguiente</string>
+    <string name="confirm_title">Confirmar Datos</string>
+    <string name="label_NA">N/A</string>
+    <string name="edit_data">Editar Datos</string>
 </resources>
